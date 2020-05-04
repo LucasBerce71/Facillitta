@@ -1,0 +1,25 @@
+body{
+    background-color: #c0c0c0;
+}
+
+#dvLogin{
+    background-color: #0c5460;
+    height: 363px;
+    width: 370px;
+}
+
+p{
+    color: #fff;
+}
+
+#erroLogin{
+    color: #ff0000;
+}
+
+a{
+    color: #fff;
+}
+
+a:hover{
+    color: #fff;
+}
